@@ -8,4 +8,9 @@ A dedicated project structure and computational environment are maintained to en
 
 ## Installation
 
-*Installation instructions and required dependencies will be provided here.*
+Create and activate the Conda environment with Python 3.12.8:
+
+```bash
+conda create -n HDSymbolicSINDy_env python=3.12.8
+conda activate HDSymbolicSINDy_env
+pip install -r requirements.txt
