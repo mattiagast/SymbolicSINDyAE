@@ -15,7 +15,10 @@ gplearn @ git+https://github.com/mattiagast/gplearn.git@776385739257aa01b8b45f0a
 torch==2.10.0
 
 # Custom simulation framework
-D_CODE @ git+https://github.com/mattiagast/D_CODE.git@96d297dd7c74b0220ba7b9ee7c7b4830e29385b9
+D_CODE @ git+https://github.com/mattiagast/D_CODE.git@73cfd59842047c7e87123b964b1bd649de2827a0
 
 # Interactive environment
 ipython==9.6.0
+
+# Utilities
+setuptools==80.9.0
